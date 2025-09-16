@@ -34,7 +34,7 @@ const Slider = () => {
     // },[])
 
   return (
-    <div className='flex flex-col h-[calc(100vh-6rem)] md:h-[calc(100vh-9rem)] lg:flex-row'>
+    <div className='flex flex-col h-[calc(100vh-6rem)] md:h-[calc(100vh-9rem)] lg:flex-row bg-fuchsia-50'>
         {/* text container */}
         <div className="flex-1 flex items-center justify-center flex-col gap-8 text-red-500 font-bold lg:h-full lg:w-1/2">
             <h1 className="text-5xl text-center uppercase md:p-10 p-4 md:text-6xl xl:text-7xl">
@@ -46,12 +46,9 @@ const Slider = () => {
         <div className='flex-1 w-full relative lg:h-full lg:w-1/2'>
             <Image src={data[currentSlide].image} alt='slider image' fill className='object-cover'/>
         </div>
+
     </div>
   )
 }
 
 export default Slider
-
-
-
-
