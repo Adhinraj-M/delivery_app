@@ -51,3 +51,5 @@ const Slider = () => {
 }
 
 export default Slider
+
+// comments added for main

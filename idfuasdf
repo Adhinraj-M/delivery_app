@@ -1,0 +1,35 @@
+[33mcommit 8a9de2c4977a84143bf68d34ead17e6e610b6dd2[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain1[m[33m, [m[1;31morigin/sample[m[33m, [m[1;31morigin/main1[m[33m, [m[1;32msample[m[33m)[m
+Author: Adhin Raj <adhinrajcr7@gmail.com>
+Date:   Tue Sep 16 17:19:11 2025 +0530
+
+    slider file changed
+
+[33mcommit f123b5ef77712392a890928b5804445a07410eed[m
+Author: Adhin Raj <adhinrajcr7@gmail.com>
+Date:   Tue Sep 16 14:56:10 2025 +0530
+
+    slider section added
+
+[33mcommit b31ab21da4a268fe90a7f25ff0df9cfd9396ab17[m
+Author: Adhin Raj <adhinrajcr7@gmail.com>
+Date:   Tue Sep 16 14:50:37 2025 +0530
+
+    UI completed
+
+[33mcommit c8b0b2f0fc0844880f4452192f32847eb7e9d00a[m
+Author: Adhin Raj <adhinrajcr7@gmail.com>
+Date:   Tue Sep 16 09:50:44 2025 +0530
+
+    data.ts added
+
+[33mcommit bee43684d6b591ad9dc31f5f26461b89274da743[m
+Author: Adhin Raj <adhinrajcr7@gmail.com>
+Date:   Mon Sep 15 19:34:07 2025 +0530
+
+    first commit
+
+[33mcommit 2ab34835aa62cea39d1c6b444bec6a4b18e891b1[m
+Author: Adhin Raj <adhinrajcr7@gmail.com>
+Date:   Mon Sep 15 14:32:03 2025 +0530
+
+    Initial commit from Create Next App
