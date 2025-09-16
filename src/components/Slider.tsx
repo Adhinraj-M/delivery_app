@@ -46,7 +46,6 @@ const Slider = () => {
         <div className='flex-1 w-full relative lg:h-full lg:w-1/2'>
             <Image src={data[currentSlide].image} alt='slider image' fill className='object-cover'/>
         </div>
-
     </div>
   )
 }
